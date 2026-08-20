@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-c3l5px.yoursingles.online/sitemap.xml
